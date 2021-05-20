@@ -1,16 +1,14 @@
-### Hi there 👋
+### Witaj! 👋
 
-<!--
-**PanSzelescik/PanSzelescik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![BedrockHost.pl](https://files.bedrockhost.pl/26492b.png?utm_source=github-PanSzelescik&utm_medium=readme-image&utm_campaign=web)](https://bedrockhost.pl/?utm_source=github-PanSzelescik&utm_medium=readme-image&utm_campaign=web)
 
-Here are some ideas to get you started:
+#### 📁 Projekty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [bot.indbuildcraft.pl](https://bot.indbuildcraft.pl/?utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web) |
+| --- |
+| Autorski bot dla serwerów IndBuildCraft oraz na Discorda z wieloma funkcjami |
+
+#### 📁 Zobacz także
+| [IndBuildCraft.pl](https://indbuildcraft.pl/?utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web) | [BedrockHost.pl](https://bedrockhost.pl/?utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web) | [serwery-minecraft.pl](https://serwery-minecraft.pl/?utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web)
+| --- | --- | --- |
+| Najlepsze serwery Minecraft na modach | Najszybszy hosting serwerów Minecraft | Najlepsza lista serwerów Minecraft |
