@@ -1,6 +1,6 @@
 ### Witaj! 👋
 
-[![BedrockHost.pl](https://files.bedrockhost.pl/26492b.png?utm_source=github-PanSzelescik&utm_medium=readme-image&utm_campaign=web)](https://bedrockhost.pl/?utm_source=github-PanSzelescik&utm_medium=readme-image&utm_campaign=web)
+[![BedrockHost.pl](https://raw.githubusercontent.com/PanSzelescik/PanSzelescik/main/bedrockhost.png)](https://bedrockhost.pl/?utm_source=github-PanSzelescik&utm_medium=readme-image&utm_campaign=web)
 
 #### 📁 Projekty
 
