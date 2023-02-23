@@ -1,6 +1,6 @@
 ## Witaj! 👋
 
-Discord: [PanSzelescik#2137](https://discord.com/users/318456704285278208)
+Discord: [PanSzelescik](https://discord.com/users/318456704285278208)
 
 [![BedrockHost.pl](https://raw.githubusercontent.com/PanSzelescik/PanSzelescik/main/bedrockhost.png)](https://bedrockhost.pl/?u=PanSzelescik&utm_source=github-PanSzelescik&utm_medium=readme-image&utm_campaign=web)
 
