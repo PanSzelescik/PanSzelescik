@@ -36,6 +36,6 @@ Najszybszy hosting serwerów Minecraft, już od 11,99 zł miesięcznie
 
 Najlepsza polska lista serwerów Minecraft na której możesz zareklamować swój serwer
 
-#### ➡️ [mc-list.org](https://mc-list.org/?u=PanSzelescik&utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web)
+#### ➡️ [Minecraft-Servers.gg](https://minecraft-servers.gg/?u=PanSzelescik&utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web)
 
 Najlepsza angielska lista serwerów Minecraft na której możesz zareklamować swój serwer
