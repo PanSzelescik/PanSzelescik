@@ -36,3 +36,7 @@ Najlepsza polska lista serwerów Minecraft na której możesz zareklamować swó
 #### ➡️ [Minecraft-Servers.gg](https://minecraft-servers.gg/?u=PanSzelescik&utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web)
 
 Najlepsza angielska lista serwerów Minecraft na której możesz zareklamować swój serwer
+
+#### ➡️ [Serwery-Hytale.pl](https://serwery-hytale.pl/?u=PanSzelescik&utm_source=github-PanSzelescik&utm_medium=readme-link&utm_campaign=web)
+
+Najlepsza polska lista serwerów Hytale na której możesz zareklamować swój serwer
